@@ -1,1 +1,1 @@
-# mindr17
+# [CV](https://shorturl.at/lvFIV)
