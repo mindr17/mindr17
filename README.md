@@ -36,6 +36,7 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=FFFFFF)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=FFFFFF)
 ![BEM](https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=BEM&logoColor=FFFFFF)
+![MAterial][https://img.shields.io/badge/Material%20Design-757575?style=for-the-badge&logo=Material%20Design&logoColor=FFFFFF]
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=FFFFFF)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=Vitest&logoColor=FFFFFF)
