@@ -1,4 +1,4 @@
-# [Click here to visit my personal home page =)](https://shorturl.at/lvFIV)
+# [Click to visit home page](https://shorturl.at/lvFIV)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
@@ -70,6 +70,5 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=Adobe%20Illustrator&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![reveal.js](https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000000)  
-More at [badges.bio](https://badges.bio)
 
 ![](https://komarev.com/ghpvc/?username=mindr17)
