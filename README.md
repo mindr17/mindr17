@@ -1,4 +1,4 @@
-# [Click to visit home page](https://shorturl.at/lvFIV)
+# [Click to visit portfolio website](https://shorturl.at/lvFIV)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
