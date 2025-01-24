@@ -1,4 +1,23 @@
-# [Click to visit portfolio website](https://shorturl.at/lvFIV)
+Background:
+- Passionate for web development since 1998.
+- Programming C++ since 2006.
+- JavaScript lover since 2013.
+- Founded first big startup in 2018.
+- Developing Commercial Real Estate since 2010.
+
+I offer:
+- **Marketing, financial consulting, design, web development, advertising** for **real estate** developers and brokers.
+- Developing **high-load, blazing fast full-stack apps**.
+- Unique promo projects for corporations.
+- Telegram mini apps, bots, scraping.
+
+We use:
+- Nextjs, react, nodejs, Golang, php and dozens more tech.
+- All popular CMS and CRM. Tilda, Webflow, Wordpress, Bitrix, Strapi, Directus, Sanity, etc.
+
+Contact:
+**Me: https://andrey.kim**
+**Team: https://kimdevs.ru**
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
