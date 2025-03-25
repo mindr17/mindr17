@@ -3,7 +3,7 @@ Background:
 - Programming C++ since 2006.
 - JavaScript lover since 2013.
 - Founded first big tech startup in 2018.
-- Developing Commercial Real Estate since 2010.
+- Developing Commercial Real Estate since 2009.
 
 I offer:
 - **Marketing, financial consulting, design, web development, advertising** for **real estate** developers and brokers.
