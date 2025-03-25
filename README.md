@@ -1,5 +1,5 @@
 Background:
-- Passionate for web development since 1998.
+- Passionate for web development since 1997.
 - Programming C++ since 2006.
 - JavaScript lover since 2013.
 - Founded first big tech startup in 2018.
